@@ -19,7 +19,7 @@
 ---
 * There is no real story for the game but the purpose behind it is to find the worst website you can in under 1 minute. Possibly making rounds so you can't use the same website over and over.
 
-# Esthetics
+# Aesthetics
 ---
 * Pretty simple graphics maybe 8 bit or cartoony characters.
 * Sound will also be simple maybe some sort of "You won!" sound and a "You lose!" sound
